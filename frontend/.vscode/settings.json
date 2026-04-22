@@ -1,0 +1,6 @@
+{
+  "http.proxy": "http://10.61.11.42:3128",
+  "http.proxySupport": "override",
+  "http.systemCertificates": true,
+  "http.proxyStrictSSL": false
+}
